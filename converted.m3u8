@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1,animation-movies.m3u
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/animation-movies.m3u
